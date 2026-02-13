@@ -1,0 +1,36 @@
+.energias {
+    background-color: rgb(255, 255, 255);
+    padding: 15px;
+    margin-bottom: 15px;
+    border-left: 6px;
+    border-radius: 30px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: initial;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+img {
+    width: 500px;
+    border-radius: 10px;
+    align-self: center;
+    margin: auto;
+}
+header {
+    
+    background-color: rgb(255, 255, 255);
+    border: darkblue;
+    border-radius: 15px;
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+body{
+    background-color: rgb(84, 137, 199);
+}
+.boton {
+    background-color: rgb(255, 255, 255);
+    border: darkblue;
+    border-radius: 15px;
+    align-self: center;
+}
